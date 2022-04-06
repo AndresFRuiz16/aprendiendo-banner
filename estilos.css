@@ -1,0 +1,9 @@
+.menu{
+    background-color: transparent;
+}
+.fondo{
+    background-image: url(img/assasins\ creed.webp);
+    background-size: cover;
+    background-position: top center;
+    padding: 2% 2% 20% 2%;
+}
